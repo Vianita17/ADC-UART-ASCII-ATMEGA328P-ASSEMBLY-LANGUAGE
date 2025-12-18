@@ -33,4 +33,5 @@ Cualquier otro dato recibido es ignorado. El modo por defecto al inicio es 8 bit
 
 Este proyecto está licenciado bajo la Licencia **MIT**.
 
-Consulte el archivo [LICENSE](LICENSE) para obtener los detalles completos.
+
+Consulte el archivo [LICENSE](LICENSE.txt) para obtener los detalles completos.
